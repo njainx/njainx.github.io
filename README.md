@@ -10,4 +10,4 @@ Members:
 Instructor:
 [Donald](https://github.com/dtylam)
 
-![Success Kid](https://en.wikipedia.org/wiki/Success_Kid#/media/File:SuccessKid.jpg)
+![Success Kid](https://upload.wikimedia.org/wikipedia/en/f/ff/SuccessKid.jpg)
